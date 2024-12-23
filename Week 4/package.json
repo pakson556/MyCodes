@@ -1,0 +1,20 @@
+{
+  "name": "week-4",
+  "version": "1.0.0",
+  "description": "Leanring how to use express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "api",
+    "javascript",
+    "json"
+  ],
+  "author": "Prince Kofi Amoah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
